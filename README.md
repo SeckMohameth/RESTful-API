@@ -15,7 +15,8 @@
 
 
 ## Populate Database
-'''
+
+```
 
 {
   "_id" : "5c18e1892998bdb3b3d355bf",
@@ -51,4 +52,6 @@
   "content" : "Jack Bauer once stepped into quicksand. The quicksand couldn't escape and nearly drowned.",
   "__v" : 0
 }
-'''
+
+```
+
